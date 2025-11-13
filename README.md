@@ -1,3 +1,4 @@
+## Do NOT USE! now you can just get it via parameter streamer easier and more reliable!
 # ChilloutVR-Hight Guesser!
 
 This addon meassures the exact height of an avatar using its slightly smaler Collider.
